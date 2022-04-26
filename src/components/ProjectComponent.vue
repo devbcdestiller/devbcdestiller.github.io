@@ -87,7 +87,7 @@ const contents = [
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .item-container:nth-of-type(even) .text-container {
