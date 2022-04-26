@@ -44,7 +44,9 @@
     align-items: flex-start;
 }
 
-
+#img-item {
+    z-index: -1;
+}
 
 #text-item {
     width: clamp(200px, 100%, 750px);

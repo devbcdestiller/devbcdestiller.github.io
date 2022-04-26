@@ -38,11 +38,13 @@ console.log(props.items)
     background-color: #353535;
     display: flex;
     justify-content: center;
-    align-items: center;    
+    align-items: center;
+    z-index: -2;
 }
 
 .text-container {
     width: 50%;
+    z-index: -1;
 }
 
 .body-wrapper {
@@ -69,7 +71,6 @@ img{
     padding: 0;
     width: 30vw;
     height: auto;
-
 }
 
 h2 {

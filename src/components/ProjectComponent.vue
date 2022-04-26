@@ -70,6 +70,7 @@ const contents = [
 <style>
 .item-container {
     margin-bottom: 12.5vh;
+    
 }
 
 .item-container:nth-of-type(odd) {
