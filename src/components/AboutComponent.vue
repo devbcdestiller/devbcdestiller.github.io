@@ -64,8 +64,8 @@ ul {
 img {
     -webkit-filter: grayscale(60%);
     filter: grayscale(60%);
-    transition: filter 1s;
-    transition: -webkit-filter 1s;
+    transition: filter 0.4s;
+    transition: -webkit-filter 0.4s;
 }
 
 img:hover {
