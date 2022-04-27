@@ -73,6 +73,7 @@ section {
 }
 
 header {
+  width: 100%;
   top: 0;
   position: sticky;
   position: -webkit-sticky;
@@ -102,8 +103,8 @@ a {
 }
 
 footer {
+  width: 100%;
   text-align: center;
-
   font-family: 'Courier New', Courier, monospace;
 }
 
