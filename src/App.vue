@@ -28,9 +28,9 @@
 
   <footer>
     <div>
-        <h4>
-            Built by Brian Estiller
-        </h4>
+      <h4>
+          <a id="site-repo" href="https://github.com/devbcdestiller/devbcdestiller.github.io" target="_blank">Built by Brian Estiller</a>
+      </h4>
     </div>
   </footer>
 
@@ -77,6 +77,8 @@ header {
   position: sticky;
   position: -webkit-sticky;
   background-color: #353535;
+  z-index: 2;
+
 }
 
 body {
@@ -101,8 +103,18 @@ a {
 
 footer {
   text-align: center;
-  color: white;
+
   font-family: 'Courier New', Courier, monospace;
 }
+
+#site-repo {
+  color: white;
+  transition: color 0.2s;
+}
+
+#site-repo:hover {
+  color: #202020;
+}
+
 
 </style>

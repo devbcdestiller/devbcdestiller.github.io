@@ -8,7 +8,7 @@
         </div>
         <div class="items">
             <p id="flavor-text">
-                I'm a sofware developer specialized in building web applications specifically in the back-end/server-side (occasionally on the front-end). I build and deploy REST APIs with technologies like Python, Docker and AWS.
+                I'm a software developer specialized in building web applications specifically in the back-end/server-side (occasionally on the front-end). I build and deploy REST APIs with technologies like Python, Docker and AWS.
             </p>
         </div>
     </div>

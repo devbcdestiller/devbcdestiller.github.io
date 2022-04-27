@@ -32,6 +32,12 @@
     padding: 2vh 2vw;
     border: 2px solid white;
     color: white;
+    transition: border 0.3s;
+
+}
+
+#email:hover {
+    border: 5px solid #202020;
 }
 
 h1 {
