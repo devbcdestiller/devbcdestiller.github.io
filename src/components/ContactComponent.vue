@@ -23,7 +23,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    height: 60vh;
+
 }
 
 #email {

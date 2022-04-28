@@ -68,7 +68,7 @@ html {
 } 
 
 section {
-  scroll-margin-top: max(100px, 6vw);
+  scroll-margin-top: 12vw;
   scroll-margin-bottom: 6vw;
 }
 
@@ -106,6 +106,7 @@ footer {
   width: max(480px, 100%);
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
+  margin-top: max(200px, 16vw);
 }
 
 #site-repo {

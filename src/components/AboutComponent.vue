@@ -73,27 +73,21 @@ img:hover {
     filter: grayscale(0%);
 }
 
-@media screen and (min-width: 721px) {
-    #img-item {
+#img-item {
 
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-    img {
-        width: 80%;
-        height: 80%;
-
-
-    }
+img {
+    width: 80%;
+    height: 80%;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 760px) {
     #img-item {
     display: none;
     }
 }
-
-
 </style>

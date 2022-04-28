@@ -119,4 +119,9 @@ h3 {
     font-size: 1em
 }
 
+@media screen and (max-width: 719px) {
+    .img-item {
+    display: none;
+    }
+}
 </style>
